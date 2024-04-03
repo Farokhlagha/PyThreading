@@ -29,9 +29,9 @@ python onlione-retail.ipynb
 ```
 
 ### Result
-online retail![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS38_Data%20Science/output/Visualization%20Distribution.png)
+online retail![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS39_Data%20Science/output/online-retail.png)
 
-covid19![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS38_Data%20Science/output/ballon%20meloon%20war.png)
+covid19![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS39_Data%20Science/output/Covid19.png)
 
-digikala![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS38_Data%20Science/output/Califirnia%20cities.png)
+digikala![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS39_Data%20Science/output/digikala.png)
 
