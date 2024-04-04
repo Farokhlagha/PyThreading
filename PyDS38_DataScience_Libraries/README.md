@@ -26,9 +26,9 @@ python california_cities.ipynb
 ```
 
 ### Result
-visualisation fruit![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS38_Data%20Science/output/Visualization%20Distribution.png)
+visualisation_fruit![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS38_DataScience_Libraries/output/visualization%20fruit.png)
 
-ballon meloon![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS38_Data%20Science/output/ballon%20meloon%20war.png)
+ballon meloon![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS38_DataScience_Libraries/output/ballon%20meloon%20war.png)
 
-California cities![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS38_Data%20Science/output/Califirnia%20cities.png)
+California cities![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS38_DataScience_Libraries/output/Califirnia%20cities.png)
 
