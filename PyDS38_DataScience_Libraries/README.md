@@ -1,4 +1,4 @@
-# PyDS38_Data Science
+# PyDS38_DataScience_Libraries
 This program uses pandas, numpy and matplotlib libraries.
 
 [Lobe](https://www.lobe.ai/)  | Machine Learning Made Easy

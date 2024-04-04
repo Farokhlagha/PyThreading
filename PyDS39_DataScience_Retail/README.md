@@ -1,4 +1,4 @@
-# PyDS39_Data Science
+# PyDS39_DataScience_Retail
 This program uses pandas, numpy and matplotlib libraries.
 
 ## 1-Onlione Retail
