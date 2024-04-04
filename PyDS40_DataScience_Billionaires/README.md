@@ -39,11 +39,11 @@ python Billionaire.ipynb
 ```
 
 ### Result
-billionaires_USA![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS39_Data%20Science/output/online-retail.png)
+billionaires_USA![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS40_DataScience_Billionaires/output/billionaires_USA.png)
 
-wealth_country![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS39_Data%20Science/output/Covid19.png)
+wealth_country![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS40_DataScience_Billionaires/output/wealth_country.png)
 
-goal_year![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS39_Data%20Science/output/digikala.png)
+goal_year![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS40_DataScience_Billionaires/output/goal_year.png)
 
-result_score![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS39_Data%20Science/output/digikala.png)
+result_score![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS40_DataScience_Billionaires/output/result_score.png)
 

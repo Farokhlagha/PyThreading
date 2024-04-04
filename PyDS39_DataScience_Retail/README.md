@@ -5,7 +5,6 @@ This program uses pandas, numpy and matplotlib libraries.
 Identify what exactly happened on April?
  [Onlione Retail](https://towardsdatascience.com/data-driven-growth-with-python-part-1-know-your-metrics-812781e66a5b).
 
-
 ## 2-COVID-19 🦠
 A. Print the names of the 8 countries with highest corona patients in the fourth month of 2020.
 
